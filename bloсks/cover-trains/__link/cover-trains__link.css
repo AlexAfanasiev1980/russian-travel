@@ -1,0 +1,21 @@
+.cover-trains__link {
+  text-decoration: none;
+  color: #fff;
+  display: block;
+  position: relative;
+  height: 100%;
+}
+
+.cover-trains__link::before {
+  content: '';
+  width: 100%;
+  height: 100%;
+  background-color: rgba(42,44,47,0.3);
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 2;
+}
+
+.cover-trains__link:hover::before {
+  background-color: rgba(42,44,47,0.8);

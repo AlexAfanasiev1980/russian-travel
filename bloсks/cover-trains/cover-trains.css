@@ -1,0 +1,13 @@
+.cover-trains {
+  padding: 0 48px;
+  box-sizing: border-box;
+}
+
+
+@media screen and (max-width:1279px) {
+  .cover-trains {
+    max-width: 100%;
+    padding: 0;
+    text-align: center;
+  }
+}
