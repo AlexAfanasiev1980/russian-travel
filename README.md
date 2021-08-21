@@ -11,7 +11,7 @@
 В проекте использованы элементы статической и адаптивной верстки.
 Для построения сеток использованы Flex и Grid контейнеры.
 Для приданию сайту адаптивности использованы относительные величины в задании ширины элементов, а также медиазапросы.
-Ссылка на GitHub Pages - https://github.com/AlexAfanasiev1980/russian-travel/edit/main
+Ссылка на GitHub Pages - https://alexafanasiev1980.github.io/russian-travel/
 
 **Figma**
 
