@@ -1,7 +1,6 @@
 .cover-trains__image {
   max-width: 100%;
-  display: block;
   position: relative;
-  margin: 0 auto;
+  grid-area: main;
   z-index: -1;
 }

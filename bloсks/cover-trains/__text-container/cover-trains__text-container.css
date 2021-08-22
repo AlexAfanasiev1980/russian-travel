@@ -1,7 +1,6 @@
 .cover-trains__text-container {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  position: relative;
+  grid-area: main;
+  align-self: center;
   z-index: 3;
 }

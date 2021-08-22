@@ -1,7 +1,10 @@
 .cover-trains__link {
   text-decoration: none;
   color: #fff;
-  display: block;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr;
+  grid-area: "main";
   position: relative;
   height: 100%;
 }

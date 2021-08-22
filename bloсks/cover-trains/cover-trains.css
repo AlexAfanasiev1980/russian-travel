@@ -6,8 +6,7 @@
 
 @media screen and (max-width:1279px) {
   .cover-trains {
-    max-width: 100%;
+    max-width: 1184px;
     padding: 0;
-    text-align: center;
   }
 }
