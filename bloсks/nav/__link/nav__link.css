@@ -1,4 +1,9 @@
 .nav__link {
   text-decoration: none;
   color: #fff;
+  transition: 0.5s;
+}
+
+.nav__link:hover {
+  opacity: 0.8;
 }

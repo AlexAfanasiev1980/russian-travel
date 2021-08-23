@@ -9,8 +9,13 @@
 }
 
 @media screen and (max-width: 767px) {
+  .place_position_not-last {
+    margin-bottom: 50px;
+  }
+
   .place_position_not-last:last-child {
     margin-bottom: 66px;
   }
+
 }
 
