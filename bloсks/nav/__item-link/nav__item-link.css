@@ -15,7 +15,6 @@
     line-height: 1;
   }
   
-  .nav__item-link:last-child {
-    margin: 0 0 48px 0;
-
+.nav__item-link:last-child {
+  margin: 0 0 48px 0;
 }

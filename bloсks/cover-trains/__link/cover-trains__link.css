@@ -4,7 +4,6 @@
   display: grid;
   grid-template-columns: 1fr;
   grid-template-rows: 1fr;
-  grid-area: "main";
   position: relative;
   height: 100%;
 }
@@ -18,7 +17,9 @@
   top: 0;
   left: 0;
   z-index: 2;
+  transition: 0.5s;
 }
 
 .cover-trains__link:hover::before {
   background-color: rgba(42,44,47,0.8);
+}
