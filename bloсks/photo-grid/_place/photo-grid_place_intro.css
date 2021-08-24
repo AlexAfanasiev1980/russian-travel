@@ -10,6 +10,6 @@
 
 @media screen and (max-width:767px) {
   .photo-grid_place_intro {
-    margin: 64px 0;
+    margin: 64px auto;
   }
 }
